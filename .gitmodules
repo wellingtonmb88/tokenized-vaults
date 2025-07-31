@@ -1,0 +1,3 @@
+[submodule "tokenized-vaults-program"]
+	path = tokenized-vaults-program
+	url = https://github.com/wellingtonmb88/tokenized-vaults-program
